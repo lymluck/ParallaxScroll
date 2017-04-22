@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 42,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 42,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 70,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 70,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 91,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 91,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 68,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 68,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 115,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 115,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 77,
+                    "endOffset": 822
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 77,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 827,
+                    "endColumn": 69,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 69,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 107,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 897,
+                        "endColumn": 107,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1005,
+                    "endColumn": 64,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 64,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 111,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/Users/louis/Desktop/ParallaxScroll/parallaxScroll/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 111,
+                        "endOffset": 1177
+                    }
+                }
+            }
+        ]
+    }
+]
